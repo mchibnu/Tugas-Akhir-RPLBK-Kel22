@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "name": "Kemeja Kotak",
+      "ingredients": "Rp. 35.000",
+      "steps":"Kemeja dengan motif kotak bikin kamu terlihat trendy",
+      "image": "https://cdn.idntimes.com/content-images/community/2021/09/download-65-fed8da28f424252529171158ad96a3c9-20b8d8e072873160f75d84854c58ec6f.jpeg"
+      
+    },
+    {
+      "name": "Hoodie Bell",
+      "ingredients": "Rp. 45.000",
+      "steps":" Hoodie hitam Bell bikin kamu hangat dan pastinya nyaman",
+      "image": "https://media.karousell.com/media/photos/products/2018/04/19/hoodie_andersson_bell_second_hoodie_bekas_1524094603_e8e564d5.jpg"
+      
+    },
+    {
+      "name": "Kemeja Hitam Polos",
+      "ingredients": "Rp. 30.000",
+      "steps":"Kemeja hitam polos terlihat simpel tanpa gangguan aksesoris lainnya",
+      "image": "https://media.karousell.com/media/photos/products/2019/05/01/baju_kemeja_pria_hitam_polos_1556654658_742131c4_progressive.jpg"
+      
+    },
+    {
+      "name": "Jacket",
+      "ingredients": "Rp. 40.000",
+      "steps":"Jacket anti air yang bikin kamu lebih aman ketika diterjang hujan waktu dijalan",
+      "image": "https://media.karousell.com/media/photos/products/2019/09/11/jaket_bekas_import_rici_1568210504_68e1bb84_progressive.jpg"
+      
+    },
+    {
+      "name": "Dress Bunga",
+      "ingredients": "Rp. 45.000",
+      "steps":"Dress bermotif bunga bikin pengguna tambah cantik dan percaya diri",
+      "image": "https://images.tokopedia.net/img/cache/500-square/product-1/2019/6/28/3598661/3598661_f0eee69a-7ad5-4f17-afb6-bfe1dbfe477e_1512_1512.jpg"
+      
+    },
+    {
+      "name": "Kemeja Garis",
+      "ingredients": "Rp. 30.000",
+      "steps":"Kemeja garis simpel dengan warna cerah untuk mood mu yang lebih baik",
+      "image": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/2/12/13160fa0-f28d-4a61-b2ea-24c8960a4701.jpg"
+      
+    },
+    {
+      "name": "Jacket Parka",
+      "ingredients": "Rp. 50.000",
+      "steps":"Jacket parka buat hangat dan yang pasti terlihat trendy",
+      "image": "https://media.karousell.com/media/photos/products/2019/11/06/jaket_parka_wanita_bekas_import_1573012917_4963116a_progressive.jpg"
+      
+    },
+    {
+      "name": "Topi Polo",
+      "ingredients": "Rp. 35.000",
+      "steps":"Topi polo putih untuk menutupi kepala di siang hari",
+      "image": "https://media.karousell.com/media/photos/products/2018/07/21/topi_casual_polo_ralph_lauren_leather_strap_putih_pink_second_original_1532104595_7e0fd9ec.jpg"
+      
+    }
+    
+  ]
+}
